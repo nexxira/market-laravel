@@ -25,11 +25,3 @@ The theme is a sound and efficient tool for webmasters with or without previous 
 Hypermarket will work for you, even if you never owned an online store before. It allows you to single-handedly manage an online shop, with no need of outsourcing for the administration tasks. You will be able to easily add or remove products, descriptions, and media content, without writing a single code line. Just upload what you want to display and wait for your visitors to buy.
 
 Hypermarket theme makes it easier for you to market your product online and reach a wider range of audience, thanks to its robust social media integration.
-
-[Offical theme post page](https://wordpress.org/themes/hypermarket)
-
-[Visit live/online demo](https://demo.mypreview.one/hypermarket)
-
-## Translators & Non-English Speakers
-
-Translators are welcome to contribute to the theme. Please use the [WordPress translation website](https://translate.wordpress.org/projects/wp-themes/hypermarket "WordPress translation website").
